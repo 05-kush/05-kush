@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Jio Platforms (ReactJS + NodeJS)<br><br>👯 I’m looking to opportunities in: Full-Stack / Backend projects (NodeJS, Microservices, Kafka, Redis, Elasticsearch)<br><br>🌱 I’m currently learning: System Design, Kubernetes basics, and advanced Kafka patterns<br><br>💬 Ask me about: ReactJS, NodeJS, REST APIs, Kafka, Redis, Elasticsearch, Prometheus, Grafana<br><br>⚡ Fun fact: I love optimizing systems — even small improvements excite me 😄<br>
+🔭 I’m currently working at Jio Platforms (Software Development Engineer - I)<br><br>👯 I’m looking to opportunities in: Full-Stack / Backend projects (NodeJS, Microservices, Kafka, Redis, Elasticsearch)<br><br>🌱 I’m currently learning: System Design, Kubernetes basics, and advanced Kafka patterns<br><br>💬 Ask me about: ReactJS, NodeJS, REST APIs, Kafka, Redis, Elasticsearch, Prometheus, Grafana<br><br>⚡ Fun fact: I love optimizing systems — even small improvements excite me 😄<br>
 
 
 ## 🌐 Socials:
